@@ -5,10 +5,14 @@
 
 # Thành viên:
 Quang (MSV 24102784)
-Lợi (MSV 241028670
+Lợi (MSV 241028670)
 
 
 Nguyễn Lệ Thu
 
-Đối tượng:
+*Đối tượng:
 Học sinh
+Môn học
+Lịch học
+Phòng học
+Giáo viên
