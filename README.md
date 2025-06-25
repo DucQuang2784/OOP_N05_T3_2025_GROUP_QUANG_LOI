@@ -13,7 +13,7 @@ Nguyễn Lệ Thu
 Đối tượng:
 
 Học sinh<br>
-Môn học<br>
+Khóa học<br>
 Lịch học<br>
 Phòng học<br>
 Giáo viên
